@@ -1,3 +1,5 @@
+package com.tictactoe.players;
+
 public class Player {
     String userName;
     char token;
